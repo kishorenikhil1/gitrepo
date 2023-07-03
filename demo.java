@@ -1,3 +1,12 @@
+class Temp()
+{
+	void main()
+		s.o.p("hey this is stash test")
+		s.o.p("hey this is stash test")
+		s.o.p("hey this is stash test")
+                s.o.p("hey this is stash test")
+}
+
 class Demo
   {
      public static void main(...)
