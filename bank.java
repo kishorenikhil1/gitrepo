@@ -4,3 +4,7 @@ class bank()
 		
 	
 }
+	p.static depositecode()
+	{
+		amount = bal-depoiste
+	}
