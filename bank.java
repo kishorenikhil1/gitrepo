@@ -8,3 +8,7 @@ class bank()
 	{
 		amount = bal-depoiste
 	}
+	p.static withdraw code()
+	{
+		amount = amount-withdraw
+	}
