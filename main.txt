@@ -1,0 +1,14 @@
+
+class code cherryA
+{
+	:::::::code CherryA::::::::
+}
+class code cherryA
+{
+        :::::::code CherryA::::::::
+}
+class code cherryA
+{
+        :::::::code CherryA::::::::
+}
+
