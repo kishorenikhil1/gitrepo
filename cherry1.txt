@@ -18,5 +18,12 @@ class code B
 {
         :::::code B:::::
 }
+{
+        :::::code c:::::
+}
+class code B
+{
+        :::::code c:::::
+}
 
 
